@@ -1,0 +1,7 @@
+echo "# Drengr" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Phoenix047-droid/Drengr.git
+git push -u origin main
